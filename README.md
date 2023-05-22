@@ -19,3 +19,12 @@
         1. Ajout ts
         2. Ajout html
         3. Ajout css
+6. Recherche
+    1. Ajout methode food service
+    2. Ajout recherche route
+    3. Montrer le resultat de la recherche dans l'accueil
+    4.Generer composant recherche
+        1. Ajout composant accueil
+        2. Ajout ts
+        3. Ajout html
+        4.Ajout css

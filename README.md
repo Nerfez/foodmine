@@ -27,4 +27,4 @@
         1. Ajout composant accueil
         2. Ajout ts
         3. Ajout html
-        4.Ajout css
+        4. Ajout css
